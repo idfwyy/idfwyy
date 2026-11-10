@@ -17,7 +17,9 @@
 ## I summited 5000 M on my 19th. 
 
 <p align="left">
-  <img src="mountain.jpg" width="200" alt="they don't know meme">
+  <img src="mountain.jpg" width="300" alt="they don't know meme">
+ <br>
+  <sub>Not the one I climbed , uploaded here cause it looks cool hehe</sub>
 </p>
 
 <br clear="right">
