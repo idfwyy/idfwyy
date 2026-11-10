@@ -29,6 +29,9 @@
 
 -Cut Coffee
 
+## I WORK WITH
+Python, C
+
 ## Contact
 **If you are Impulsive or Spontaneous , we should talk.**
 <p align="left">
