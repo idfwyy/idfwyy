@@ -4,14 +4,12 @@
 
 ^ that number is mostly me refreshing.
 
-**If I have 5 minutes to submit my assignment, I would still git push.**
-
-<br clear="right">
-
-**Whatever idea hits me right before I fall asleep. I code it before it disappears.**
+**LARP**
+-If I have 5 minutes to submit my assignment, I would still git push.
+-Whatever idea hits me right before I fall asleep. I code it before it disappears.
 
 <p align="center">
-  <img src="IMG_1730.jpeg" width="380" alt="they don't know meme">
+  <img src="IMG_1730.jpeg" width="350" alt="they don't know meme">
 </p>
 
 ## I summited 5000 M on my 19th. 
@@ -20,8 +18,11 @@
 
 ## Things I don't do
 -Sleep on time
+
 -Cut Coffee
 
 ## Contact
 If you are Impulsive or Spontaneous , we should talk.
-<img src="IMG_1732.gif" width="200" alt="hehe">
+<p align="right">
+  <img src="IMG_1732.gif" width="200" alt="hehe">
+</p>
