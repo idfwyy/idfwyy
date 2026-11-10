@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=idfwyy&color=grey&label=Profile+Views)
 
-^ that number is mostly me refreshing.
+^ I LOVE THESE MANY HUMANS.GOD BLESS
 
 **LARP**
 
