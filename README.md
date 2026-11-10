@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=idfwyy&color=grey&label=Profile+Views)
 
-^ I LOVE THESE MANY HUMANS.GOD BLESS
+^ I love these many Humans
 
 **LARP**
 
