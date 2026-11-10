@@ -11,7 +11,7 @@
 **Whatever idea hits me right before I fall asleep. I code it before it disappears.**
 
 <p align="center">
-  <img src="theydontknow.jpeg" width="380" alt="they don't know meme">
+  <img src="IMG_1730.jpeg" width="380" alt="they don't know meme">
 </p>
 
 ## I summited 5000 M on my 19th. 
@@ -24,4 +24,4 @@
 
 ## Contact
 If you are Impulsive or Spontaneous , we should talk.
-<img src="IMG_1732.gif" width="380" alt="hehe">
+<img src="IMG_1732.gif" width="200" alt="hehe">
