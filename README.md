@@ -6,9 +6,10 @@
 
 **LARP**
 -If I have 5 minutes to submit my assignment, I would still git push.
+
 -Whatever idea hits me right before I fall asleep. I code it before it disappears.
 
-<p align="center">
+<p align="left">
   <img src="IMG_1730.jpeg" width="350" alt="they don't know meme">
 </p>
 
@@ -22,7 +23,7 @@
 -Cut Coffee
 
 ## Contact
-If you are Impulsive or Spontaneous , we should talk.
-<p align="right">
+**If you are Impulsive or Spontaneous , we should talk.**
+<p align="left">
   <img src="IMG_1732.gif" width="200" alt="hehe">
 </p>
